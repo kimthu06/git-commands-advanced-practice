@@ -1,2 +1,2 @@
 # Git Advanced Practice
-# Hello I'm Kim Thu
+# Hello I'm Kim Th
